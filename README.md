@@ -48,11 +48,8 @@
 
 ## Deployed Site
 
-[https://supply-chain-navy.vercel.app/](https://supply-chain-navy.vercel.app/)
+invoice-intelligence.vercel.app
 
-## Github Link
-
-https://github.com/Sudershhh/supply-chain
 
 ## Installation
 
