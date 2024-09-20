@@ -1,6 +1,6 @@
-# Didero
+# Invoice AI
 
-**Didero** is a web application for managing and downloading user-uploaded files. It features a clean interface and secure access, making it easy to organize and interact with your files.
+**Invoice AI** is a web application for extracting relevant financial and logistical information from invoices. It features a clean interface and secure access, making it easy to organize and interact with your files.
 
 ## Tech Stack
 
@@ -48,11 +48,8 @@
 
 ## Deployed Site
 
-[https://supply-chain-navy.vercel.app/](https://supply-chain-navy.vercel.app/)
+invoice-intelligence.vercel.app
 
-## Github Link
-
-https://github.com/Sudershhh/supply-chain
 
 ## Installation
 
